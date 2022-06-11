@@ -1,5 +1,5 @@
 # Lane-Detection
-<img src="demo_gif.gif" width="900" height="700" />
+<img src="demo_gif.gif" />
 
 This repo contains code of lane detection application. I used Python and OpenCV to detect lane lines on the road.
 
