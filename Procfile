@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run lane_line_detection.py
