@@ -1,4 +1,6 @@
 # Lane-Detection
+<img src="demo_gif.gif" width="900" height="700" />
+
 This repo contains code of lane detection application. I used Python and OpenCV to detect lane lines on the road.
 
 # Architecture
@@ -13,4 +15,4 @@ This repo contains code of lane detection application. I used Python and OpenCV 
 6. Average and extrapolating the lane lines
 7. Apply on video streams
 
-<img src="demo_gif.gif" width="800" height="500" />
+
