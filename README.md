@@ -15,4 +15,6 @@ This repo contains code of lane detection application. I used Python and OpenCV 
 6. Average and extrapolating the lane lines
 7. Apply on video streams
 
-
+# To Run 
+1. Download code
+2. In terminal run command `streamlit run lane_line_detection.py`
